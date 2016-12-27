@@ -1,0 +1,13 @@
+# Site settings
+title: Daily Cardinal 125
+safe:           false
+source:         app
+exclude:
+  - assets/scripts
+  - assets/vendor
+  - assets/styles
+  - README.md
+timezone: America/New_York
+highlighter: false 
+
+baseurl: ""
