@@ -11,3 +11,17 @@ timezone: America/New_York
 highlighter: false 
 
 baseurl: ""
+
+##
+# Collections definitions
+##
+
+collections:
+  events:
+    output: true
+    permalink: /agenda/:slug/
+  speakers:
+    output: true
+    permalink: /speakers/:path/
+  sponsors:
+    output: false
